@@ -1,0 +1,14 @@
+{
+  "name": "desafioalwaismusic",
+  "version": "1.0.0",
+  "description": "En este desafío se debe desarrollar una aplicación en Node que realice consultas a PostgreSQL con el paquete “pg”",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dolores Moriconi",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
